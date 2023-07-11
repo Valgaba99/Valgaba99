@@ -33,7 +33,7 @@ Estoy abierto a nuevas oportunidades y me encantaría ser parte de un equipo din
 
 Proyectos de Desarrollo de Software: Innovación, Eficiencia y Calidad:
 
-* [Lexílogos](https://www.google.com)
+* [Lexílogos](https://github.com/Valgaba99/Lex-logos)
 * [Radit](https://www.google.com)
 * [I'm an inline-style link](https://www.google.com)
 
