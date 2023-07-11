@@ -1,6 +1,6 @@
 ### ¡Hola! Soy Víctor Algaba 
 
-![Screenshot](1681727048731.png)
+![1681727048731](https://github.com/Valgaba99/Valgaba99/assets/94439378/e2aa16a5-8636-4ca4-8fb3-a55f359e213b)
 
 
 Here are some ideas to get you started:
