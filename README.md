@@ -1,4 +1,4 @@
-### ¡Hola! Soy Víctor Algaba 👽👽
+### ¡Hola!
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
@@ -31,9 +31,6 @@ Estoy abierto a nuevas oportunidades y me encantaría ser parte de un equipo din
 
 ---
 
-Proyectos de Desarrollo de Software: Innovación, Eficiencia y Calidad:
+Proyectos de Desarrollo de Software: Innovación, Eficiencia y Calidad
 
-* [Lexílogos](https://github.com/Valgaba99/Lex-logos)
-* [Radit](https://www.google.com)
-* [I'm an inline-style link](https://www.google.com)
 
